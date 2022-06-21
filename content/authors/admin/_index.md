@@ -28,9 +28,11 @@ education:
     - course: PhD in Computational Mathematics
       institution: Deaparment of Mathematics, Southern University of Science and Technology
       year: 2019-now
+     url: https://math.sustech.edu.cn/index.html
     - course: MS in Computational Mathematics
       institution: Deaparment of Mathematics, Southern University of Science and Technology \& Harbin Institute of Technology
       year: 2017-2019
+     url: https://math.sustech.edu.cn/index.html
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
