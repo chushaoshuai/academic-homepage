@@ -33,9 +33,9 @@ education:
       institution: Deaparment of Mathematics, Southern University of Science and Technology \& Harbin Institute of Technology
       year: 2017-2019
      url: https://math.sustech.edu.cn/index.html
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Scientific Computation
+      institution: Beijing Institute of Science and Technology
+      year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
