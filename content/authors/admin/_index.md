@@ -27,6 +27,7 @@ education:
   courses:
     - course: PhD in Computational Mathematics
       institution: Deaparment of Mathematics, Southern University of Science and Technology
+      url: https://math.sustech.edu.cn/index.html
       year: 2019-now
     - course: MS in Computational Mathematics
       institution: Deaparment of Mathematics, Southern University of Science and Technology 
